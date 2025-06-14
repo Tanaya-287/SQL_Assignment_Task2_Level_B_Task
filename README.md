@@ -1,6 +1,6 @@
 # SQL_Assignment_Task2_Level_B_Task
 
-# SQL Server Procedures, Functions, and Views 📊
+##SQL Server Procedures, Functions, and Views 📊
 
 > ✅ This task was assigned by **Celebal Technologies** as part of the SQL Internship Program.
 
